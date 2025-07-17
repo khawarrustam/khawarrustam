@@ -1,10 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Rana Khawar Ali</h1>
 <h3 align="center">Aspiring Software Engineer | MERN Stack Learner | Intern @ Tiers LTD | Tech Explorer</h3>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="270" alt="Coder gif" />
-</p>
-
 <p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="220" />
 </p>
