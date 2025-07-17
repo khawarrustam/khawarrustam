@@ -1,15 +1,14 @@
 <h1 align="center">Hi there 👋, I'm Rana Khawar Ali</h1>
 <h3 align="center">Aspiring Software Engineer | MERN Stack Learner | Intern @ Tiers LTD | Tech Explorer</h3>
 <p align="center">
+  <a href="https://github.com/khawarrustam">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=MERN+Stack+Enthusiast;AI+&+Web+Integration+Learner;Passionate+about+Modern+Tech;Loves+to+Build+Smart+Web+Apps;Full+Stack+Developer+in+progress..." alt="Typing SVG" />
+  </a>
+</p
+<p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="220" />
 </p>
-h1>
 
-<p align="center">
-  <a href="https://github.com/khawarrustam">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&lines=Software+Engineering+Intern+@+Tiers+LTD;Computer+Science+Student+%7C+University+of+Lahore;MERN+Stack+Learner+%7C+AI+Explorer;Building+Real-World+Tech+Solutions" alt="Typing SVG" />
-  </a>
-</p>
 
 ---
 
