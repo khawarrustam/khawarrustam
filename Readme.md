@@ -2,12 +2,9 @@
 <h3 align="center">Aspiring Software Engineer | MERN Stack Learner | Intern @ Tiers LTD | Tech Explorer</h3>
 <p align="center">
   <a href="https://github.com/khawarrustam">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=MERN+Stack+Enthusiast;AI+&+Web+Integration+Learner;Passionate+about+Modern+Tech;Loves+to+Build+Smart+Web+Apps;Full+Stack+Developer+in+progress..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=MERN+Stack;AI+&+Web+Integration+Learner;Passionate+about+Modern+Tech;Loves+to+Build+Smart+Web+Apps;Full+Stack+Developer+in+progress..." alt="Typing SVG" />
   </a>
 </p
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="220" />
-</p>
 
 
 ---
