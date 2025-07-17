@@ -1,50 +1,83 @@
-# 💫 About Me
-👋 Hi there! I'm **Rana Khawar Ali**  
-🎓 **Computer Science Undergraduate** | University of Lahore (CGPA: 3.89/4.00)  
-💡 Passionate about building smart web applications and solving real-world problems.  
+<h1 align="center">Hi there 👋, I'm Rana Khawar Ali</h1>
+<h3 align="center">💻 Computer Science Undergraduate | Web Developer | Tech Enthusiast</h3>
 
-I am deeply interested in exploring cutting-edge technologies and contributing to impactful projects in the field of computer science.
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="220" />
+</p>
+
+---
+
+## 💫 About Me
+
+🎓 **CS Student** at the **University of Lahore**  
+💡 Passionate about building smart, user-focused web applications  
+🛠️ Exploring **Full-Stack Development** and **AI-powered solutions**  
+🏆 Winner of **Bug Finder (Beam 9.0)** | 🧾 **Dean’s List (Fall 2023)**  
+
+I’m focused on continuous learning, clean code practices, and contributing to innovative projects that solve real-world problems.
 
 ---
 
 ## 🌐 Connect with Me
-Feel free to reach out or connect with me on the following platforms:  
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/khawarrustam7)  
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://facebook.com/khawarrustam7)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khawarrustam/)  
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white)](https://github.com/khawarrustam)
+
+<p align="left">
+  <a href="https://discord.gg/khawarrustam7"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://facebook.com/khawarrustam7"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/khawarrustam"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/khawarrustam"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://instagram.com/khawarrustam"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
 
 ---
 
-## 💻 Tech Stack
-Here are some technologies and tools I work with:
+## 🛠 Tech Stack
 
-### Programming Languages
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+### 💻 Languages  
+![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Web Development
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+### 🌐 Web Technologies  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### Tools & Frameworks
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+### ⚙️ Tools & Platforms  
+![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
-Check out my GitHub profile stats:  
-![](https://github-readme-stats.vercel.app/api?username=khawarrustam&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
-![](https://nirzak-streak-stats.vercel.app/?user=khawarrustam&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=khawarrustam&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khawarrustam&theme=tokyonight&show_icons=true&hide_border=false" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=khawarrustam&theme=tokyonight&hide_border=false" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khawarrustam&layout=compact&theme=tokyonight" width="50%" />
+</p>
 
 ---
 
-### ✍️ Random Developer Quote
-> ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+## ✨ Achievements
+
+- 🏆 **Winner – Bug Finder Competition (Beam 9.0)**  
+- 📜 **Dean’s Honour List – Fall 2023**  
+- 🔧 **Built a complete E-commerce website** using **React & Firebase**  
+- 🌱 Actively learning **MERN Stack**, **AI integration**, and **modern DevTools**
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=khawarrustam&icon=0&color=8)](https://visitcount.itsvg.in)
+### ✍️ Random Developer Quote  
+> ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=khawarrustam&icon=5&color=0" />
+</p>
