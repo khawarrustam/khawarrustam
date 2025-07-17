@@ -3,6 +3,13 @@
 <p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="220" />
 </p>
+h1>
+
+<p align="center">
+  <a href="https://github.com/khawarrustam">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&lines=Software+Engineering+Intern+@+Tiers+LTD;Computer+Science+Student+%7C+University+of+Lahore;MERN+Stack+Learner+%7C+AI+Explorer;Building+Real-World+Tech+Solutions" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
