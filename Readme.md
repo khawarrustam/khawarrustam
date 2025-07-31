@@ -65,7 +65,17 @@
 
 > *"First solve the problem, then write the code." – John Johnson*
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" style="max-width: 100%; height: auto;" />
-</div>
+<p align="center">
+  <picture>
+    <source
+      srcset="https://readme-daily-quotes.vercel.app/api?theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://readme-daily-quotes.vercel.app/api?theme=light"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://readme-daily-quotes.vercel.app/api?theme=light" alt="Daily Quote" />
+  </picture>
+</p>
 
