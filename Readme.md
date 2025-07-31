@@ -65,6 +65,7 @@
 
 > *"First solve the problem, then write the code." – John Johnson*
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" style="max-width: 100%; height: auto;" />
+</div>
+
