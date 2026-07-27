@@ -1,81 +1,256 @@
-<h1 align="center">👋 Hi, I'm Rana Khawar Ali</h1>
-<h3 align="center">Aspiring Software Engineer | MERN Stack Enthusiast | Intern @ Tiers LTD | Tech Explorer</h3>
+<h1 align="center">Hi 👋, I'm Rana Khawar Ali</h1>
+
+<h3 align="center">
+Software Engineer • Full Stack Developer • AI Engineer
+</h3>
 
 <p align="center">
-  <a href="https://github.com/khawarrustam">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;AI+%26+Web+Integration+Enthusiast;Passionate+about+Modern+Tech;Always+Learning+and+Building!" />
-  </a>
+Building scalable web applications, AI-powered products, and modern software experiences.
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&center=true&vCenter=true&width=900&lines=Software+Engineer;Full+Stack+Developer;AI+Engineer;React+%7C+Node.js+%7C+Python;Building+AI-Powered+Applications;MERN+Stack+Developer;Always+Learning+New+Technologies;Open+to+Software+Engineering+Opportunities" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=khawarrustam&label=Profile+Views&color=0e75b6&style=flat" />
+<img src="https://img.shields.io/github/followers/khawarrustam?label=Followers&style=social" />
+<img src="https://img.shields.io/github/stars/khawarrustam?label=Stars&style=social" />
 </p>
 
 ---
 
-## 💫 About Me
+# 🚀 About Me
 
-- 🎓 **Computer Science Student** @ University of Lahore  
-- 💻 **Software Engineering Intern** @ Tiers LTD  
-- 🌐 Focused on **full-stack development** (MERN stack)  
-- 🛠️ Experience with **React**, **Firebase**, and building responsive apps  
-- 🏆 **Winner:** Bug Finder Competition (Beam 9.0)  
-- 📜 **Dean’s Honour List – Fall 2023**  
-- 🤖 Exploring **AI x Web** technologies  
-- 🚀 Always eager to learn, collaborate, and contribute!
+🎓 **BS Computer Science Graduate** — The University of Lahore (**CGPA: 3.91**)
+
+💼 Former **MERN Stack Intern**
+
+💻 Passionate about building **Full Stack** and **AI-powered** applications.
+
+🤖 Strong interest in:
+
+- Artificial Intelligence
+- Machine Learning
+- Generative AI
+- Large Language Models (LLMs)
+- Backend Engineering
+- Software Architecture
+- Cloud Technologies
+
+📚 Currently Learning
+
+- IBM Back-End Development Professional Certificate
+- Advanced Backend Development
+- AI Engineering
+- FastAPI
+- Docker
+- System Design
+
+🎯 Career Goal
+
+Become a **Senior Software Engineer** and eventually an **AI Engineer** building intelligent products used by millions of users.
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠 Tech Stack
 
-<p align="center">
-  <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,redux,nodejs,express,mongodb,firebase,python,cpp,c,vercel,netlify,git,github,postman,vscode,linux&theme=light" />
-  </a>
+## 💻 Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,bootstrap,vite,nextjs" />
+
+</p>
+
+## ⚙ Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,fastapi" />
+
+</p>
+
+## 🗄 Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,supabase,firebase" />
+
+</p>
+
+## 🤖 AI / Machine Learning
+
+- TensorFlow
+- Scikit-learn
+- OpenAI API
+- Groq (Llama)
+- Prompt Engineering
+- AI Integration
+- Machine Learning
+- Artificial Intelligence
+- Artificial Neural Networks
+
+---
+
+## ☁ Tools & DevOps
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vercel,netlify,vscode" />
+
 </p>
 
 ---
 
-## 🔥 GitHub Stats
+# 🚀 Featured Projects
+
+## 🌟 InsightFlow CRM
+
+**AI-powered Customer Relationship Management Platform**
+
+### Features
+
+- AI Insights
+- Competitor Analysis
+- Customer Management
+- Dashboard Analytics
+- Authentication
+- Responsive UI
+- REST APIs
+
+**Tech**
+
+React • TypeScript • Node.js • Express • MongoDB • Python • Groq AI
+
+🔗 Live Demo
+
+https://insightflow-fyp-ai.vercel.app
+
+---
+
+## 💼 Career Catalyst
+
+**AI Resume Builder & Job Analyzer**
+
+### Features
+
+- AI Resume Builder
+- ATS Resume Analysis
+- Job Matching
+- Resume Optimization
+- Authentication
+- Responsive Dashboard
+
+**Tech**
+
+React • TypeScript • Node.js • Express • MongoDB • Python
+
+🔗 Live Demo
+
+https://career-catalyst-fyp.vercel.app
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khawarrustam&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khawarrustam&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khawarrustam&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=khawarrustam&theme=tokyonight" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=khawarrustam&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khawarrustam&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=khawarrustam&theme=tokyonight"/>
+
 </p>
 
 ---
 
-## 🏆 Achievements
-
-- 🛡️ **Bug Finder Winner – Beam 9.0 (UOL)**
-- 🥇 **Dean’s Honour List – Fall 2023**
-- 💼 **Software Engineering Intern – Tiers LTD**
-
----
-
-## 🌐 Connect with Me
+# 📈 Contribution Graph
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/khawarrustam"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/khawarrustam"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.instagram.com/khawarrustam"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=khawarrustam&theme=tokyo-night"/>
+
 </p>
 
 ---
 
-## 💡 Quote I Live By
-
-> *"First solve the problem, then write the code." – John Johnson*
+# 🏆 GitHub Trophies
 
 <p align="center">
-  <picture>
-    <source
-      srcset="https://readme-daily-quotes.vercel.app/api?theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://readme-daily-quotes.vercel.app/api?theme=light"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://readme-daily-quotes.vercel.app/api?theme=light" alt="Daily Quote" />
-  </picture>
+
+<img src="https://github-profile-trophy.vercel.app/?username=khawarrustam&theme=tokyonight&margin-w=15&margin-h=15"/>
+
 </p>
 
+---
+
+# 🏅 Achievements
+
+🏆 Dean's Honour List
+
+🥇 Bug Finder Competition Winner (Beam 9.0)
+
+💼 MERN Stack Internship
+
+🎓 BS Computer Science (CGPA 3.91)
+
+---
+
+# 📚 Currently Exploring
+
+- AI Agents
+- LLM Applications
+- LangChain
+- FastAPI
+- Docker
+- AWS
+- System Design
+- Backend Scalability
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.khawarrustam.tech">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/khawarrustam">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/khawarrustam">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="mailto:rajputkhawarali@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://wa.me/923494047056">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp"/>
+</a>
+
+</p>
+
+---
+
+# 💭 Quote
+
+> **"Great software isn't just written—it is thoughtfully designed to solve real-world problems with simplicity, scalability, and intelligence."**
+
+---
+
+<p align="center">
+
+⭐ If you like my work, consider giving my repositories a star!
+
+</p>
