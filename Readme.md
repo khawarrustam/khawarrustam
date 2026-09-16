@@ -206,16 +206,20 @@ Currently learning and building around:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=khawarrustam&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khawarrustam&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khawarrustam&theme=github_dark" alt="Rana Khawar Ali GitHub Profile Details" />
 
-<br>
+<br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=khawarrustam&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=khawarrustam&theme=github_dark" alt="GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khawarrustam&theme=github_dark" alt="Top Languages by Repository" />
 
-<br>
+<br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=khawarrustam&theme=github-dark&hide_border=true&area=true" alt="Contribution Graph" />
+<img src="https://streak-stats.demolab.com?user=khawarrustam&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=khawarrustam&theme=github-dark&hide_border=true&area=true" alt="GitHub Contribution Graph" />
 
 </div>
 
