@@ -1,187 +1,246 @@
-<h1 align="center">Rana Khawar Ali</h1>
+<div align="center">
 
-<p align="center">
-Software Engineer • Full Stack Developer • AI Engineer
-</p>
+# Rana Khawar Ali
 
-<p align="center">
-Building scalable software, AI-powered applications, and modern web experiences.
-</p>
+### Software Engineer · Full-Stack Developer · Applied AI Engineer
 
-<p align="center">
-  <a href="https://github.com/khawarrustam">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=1000&center=true&vCenter=true&width=850&lines=Software+Engineer;Full+Stack+Developer;AI+Engineer;React+%7C+Node.js+%7C+Python;Building+Modern+AI+Applications;Always+Learning+New+Technologies" />
-  </a>
-</p>
+Building reliable full-stack products, scalable backend systems, and AI-powered applications.
 
-<p align="center">
-  <a href="https://www.khawarrustam.tech"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/khawarrustam"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/khawarrustam"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="mailto:rajputkhawarali@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://wa.me/923494047056"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" /></a>
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-khawarrustam.tech-111111?style=for-the-badge\&logo=vercel\&logoColor=white)](https://www.khawarrustam.tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-khawarrustam-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/khawarrustam)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:rajputkhawarali@gmail.com)
+
+<br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=20\&duration=3200\&pause=900\&center=true\&vCenter=true\&width=800\&lines=Software+Engineer;Full-Stack+Developer;Applied+AI+Engineer;React+%7C+Node.js+%7C+Python+%7C+PostgreSQL;Building+AI-Powered+Products;Learning%2C+Building%2C+Improving)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-## About
+## 👨‍💻 About Me
 
-I am a **Software Engineer** with a strong interest in **Full Stack Development**, **Artificial Intelligence**, and **Backend Engineering**.
+I'm a Computer Science graduate and software engineer focused on building practical, production-style applications across **frontend, backend, databases, APIs, and applied AI**.
 
-I graduated with a **BS in Computer Science** from **The University of Lahore** with a **CGPA of 3.91**. My experience includes building production-style web applications using modern technologies such as React, TypeScript, Node.js, Express.js, Python, MongoDB, and SQL while integrating AI capabilities through LLM APIs.
+* 🎓 **BS Computer Science** — The University of Lahore
+* 🏅 **CGPA: 3.91 / 4.00** · Dean's Honour List
+* 💼 Former **Software Engineer Intern at Tiers Limited**
+* 🚀 Built full-stack products using **React, TypeScript, Node.js, Express, Python, FastAPI, MongoDB, and PostgreSQL**
+* 🤖 Experience integrating **LLM APIs, prompt engineering, AI insights, personalized memory, scoring, and intelligent workflows**
+* 🧪 Comfortable with **REST API testing, automated testing, debugging, Git workflows, and software quality practices**
+* 🎯 Currently deepening my skills in **backend engineering, system design, AI engineering, Docker, and cloud technologies**
 
-My long-term goal is to become a **Senior Software Engineer** specializing in scalable backend systems and AI-powered software.
+> I enjoy turning ideas into complete products — from database design and APIs to polished interfaces and AI-powered features.
 
 ---
 
-## Tech Stack
+## 🧰 Tech Stack
 
 ### Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,js,ts,python" alt="Languages" />
+</p>
+
+**Also:** SQL · HTML5 · CSS3 · JSON
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite)
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite" alt="Frontend" />
+</p>
 
-### Backend
+**Also:** React Router · Recharts · shadcn/ui · Responsive UI
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask)
+### Backend & APIs
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask" alt="Backend" />
+</p>
+
+**Also:** REST APIs · JWT · RBAC · Authentication · API Integration
 
 ### Databases
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase)
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,supabase,firebase" alt="Databases" />
+</p>
 
 ### AI & Machine Learning
 
-- Machine Learning
-- Artificial Intelligence
-- Artificial Neural Networks
-- TensorFlow
-- Scikit-learn
-- OpenAI API
-- Groq (Llama)
-- Prompt Engineering
-- AI Integration
-
-### Tools
-
-Git • GitHub • Docker • Postman • Vercel • Netlify • Linux • VS Code
-
----
-
-## Featured Projects
-
-### InsightFlow CRM
-
-AI-powered CRM platform that helps businesses manage customers, analyze competitors, and generate AI-driven insights.
-
-**Highlights**
-
-- AI Insights
-- Competitor Intelligence
-- Dashboard Analytics
-- Authentication
-- REST APIs
-- Responsive Design
-
-**Stack**
-
-React • TypeScript • Node.js • Express • MongoDB • Python • Groq AI
-
-**Live:** https://insightflow-fyp-ai.vercel.app
-
----
-
-### Career Catalyst
-
-AI-powered Resume Builder and Job Analyzer that generates ATS-friendly resumes and helps users improve job applications using AI.
-
-**Highlights**
-
-- Resume Builder
-- ATS Analysis
-- Job Matching
-- Resume Optimization
-- Authentication
-- Dashboard UI
-
-**Stack**
-
-React • TypeScript • Node.js • Express • MongoDB • Python
-
-**Live:** https://career-catalyst-fyp.vercel.app
-
----
-
-## Current Focus
-
-- AI Engineering
-- Large Language Models (LLMs)
-- Backend Development
-- System Design
-- FastAPI
-- Docker
-- Cloud Technologies
-- IBM Back-End Development Professional Certificate
-
----
-
-## GitHub Statistics
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=khawarrustam&show_icons=true&theme=github_dark&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khawarrustam&layout=compact&theme=github_dark&hide_border=true"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn" alt="AI and Machine Learning" />
 </p>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=khawarrustam&theme=github-dark-blue&hide_border=true"/>
+**Applied AI:** OpenAI API · Groq / Llama · Prompt Engineering · LLM Applications · AI Agents
+**Learning / Exploring:** RAG · Embeddings · Vector Databases · Semantic Search
+
+### Testing, DevOps & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel,netlify,vscode,linux" alt="Tools" />
 </p>
 
+**Testing:** Pytest · Jest · Supertest · Vitest
+**Workflow:** Git/GitHub · Debugging · Code Review · CI/CD Fundamentals
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 TutorMind AI
+
+**AI-Powered Personal Tutor with Persistent Memory**
+
+A personalized CS tutoring platform that tracks learning progress, remembers weak areas, detects topics, and generates context-aware tutoring responses.
+
+**Key features**
+
+* Persistent learner memory
+* Topic detection and weak-area tracking
+* Progress dashboards
+* Secure authentication
+* FastAPI backend with PostgreSQL
+* LLM-powered tutoring using Groq / Llama
+
+**Tech:** Python · FastAPI · React · TypeScript · PostgreSQL · Supabase Auth · Groq/Llama · Pytest
+
+[![Repository](https://img.shields.io/badge/GitHub-View_Repository-181717?style=flat-square\&logo=github)](https://github.com/khawarrustam/TutorMind-AI)
+
+---
+
+### 📊 InsightFlow CRM
+
+**Full-Stack CRM + Competitive Intelligence Platform**
+
+A CRM platform combining lead management, sales workflows, analytics, competitor intelligence, and AI-generated business insights.
+
+**Key features**
+
+* Lead and customer management
+* Kanban sales pipeline
+* Revenue analytics
+* Role-based access control
+* CSV import/export
+* Competitor scraping
+* AI-generated strategy insights
+
+**Tech:** React · Node.js · Express · MongoDB · JWT · Recharts · Puppeteer · Cheerio · Groq/Llama
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-000000?style=flat-square\&logo=vercel)](https://insightflow-fyp-ai.vercel.app)
+
+---
+
+### 📄 Career Catalyst
+
+**AI Resume Builder + Job Analyzer**
+
+An AI-powered career platform for creating resumes, analyzing job descriptions, identifying keyword gaps, and improving job applications.
+
+**Key features**
+
+* ATS-friendly resume builder
+* Live A4 resume preview
+* PDF export
+* Job scraping
+* Keyword gap analysis
+* Match scoring
+* AI-assisted recommendations
+* Authentication and dashboard workflows
+
+**Tech:** React · TypeScript · Node.js · Express · MongoDB · Python · Flask · Groq/Llama
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-000000?style=flat-square\&logo=vercel)](https://career-catalyst-fyp.vercel.app)
+
+---
+
+## 💼 Experience
+
+### Software Engineer Intern — Tiers Limited
+
+**Remote · Jul 2025 – Nov 2025**
+
+* Built and maintained full-stack MERN applications across frontend, backend, databases, and REST APIs.
+* Integrated **Firebase, Stripe, Google services, and JWT authentication**.
+* Worked with reusable React components, protected routes, API workflows, debugging, and optimization.
+* Promoted to a **paid MERN Stack Intern** after strong performance.
+* Improved delivery speed and task efficiency through structured debugging, optimization, and AI-assisted development.
+
+---
+
+## 🎯 Current Focus
+
+```text
+Backend Engineering        ███████████████████░
+AI / LLM Engineering       ██████████████████░░
+System Design              ███████████████░░░░░
+Docker & DevOps            ██████████████░░░░░░
+Cloud Technologies         █████████████░░░░░░░
+```
+
+Currently learning and building around:
+
+* FastAPI and production backend patterns
+* PostgreSQL and database design
+* Large Language Models and AI agents
+* RAG, embeddings, and semantic search
+* Docker and deployment workflows
+* System design fundamentals
+* Clean architecture and scalable APIs
+
+---
+
+## 🏆 Achievements & Certifications
+
+* 🏅 **Dean's Honour List** — The University of Lahore
+* 🐞 **Beam 9.0 Bug Finder Winner**
+* 📈 **NSCT — 89.7 Percentile**
+* 🤖 **Generative AI: Prompt Engineering Basics** — IBM
+* 🧠 **AI Fluency: Framework & Foundations** — Anthropic
+* 🛠️ **Claude Code in Action** — Anthropic
+* 🗄️ **Databases & SQL for Data Science with Python** — IBM / Coursera
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=khawarrustam&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khawarrustam&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="Top Languages" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=khawarrustam&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=khawarrustam&theme=github-dark&hide_border=true&area=true" alt="Contribution Graph" />
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in opportunities and collaborations involving **software engineering, backend development, full-stack products, and applied AI**.
+
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=khawarrustam&theme=github-dark&hide_border=true"/>
+  <a href="https://www.khawarrustam.tech"><strong>Portfolio</strong></a>
+  ·
+  <a href="https://www.linkedin.com/in/khawarrustam"><strong>LinkedIn</strong></a>
+  ·
+  <a href="https://github.com/khawarrustam"><strong>GitHub</strong></a>
+  ·
+  <a href="mailto:rajputkhawarali@gmail.com"><strong>Email</strong></a>
 </p>
 
 ---
 
-## Achievements
+<div align="center">
 
-- Dean's Honour List
-- Bug Finder Competition Winner (Beam 9.0)
-- MERN Stack Internship
-- BS Computer Science — CGPA 3.91
+### Build. Learn. Improve. Repeat.
 
----
+*"Great software comes from curiosity, consistency, and continuous improvement."*
 
-## Connect
-
-**Portfolio**  
-https://www.khawarrustam.tech
-
-**LinkedIn**  
-https://www.linkedin.com/in/khawarrustam
-
-**GitHub**  
-https://github.com/khawarrustam
-
-**Email**  
-rajputkhawarali@gmail.com
-
-**WhatsApp**  
-https://wa.me/923494047056
-
----
-
-> *"Great software is built by engineers who never stop learning."*
+</div>
